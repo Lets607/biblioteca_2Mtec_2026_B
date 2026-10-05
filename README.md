@@ -288,4 +288,4 @@ Pull Request individual (veja a issue "Adicionar seu nome ao README").
 
 | Nome completo | Nick | Registro de matrícula |
 |---|---|---|
-| Leticia Monteiro Cardoso | Lets607 | 10555|
+| Leticia Monteiro Cardoso |Lets607 | 10555|
